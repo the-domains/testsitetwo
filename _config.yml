@@ -1,0 +1,14 @@
+layout_spectrum: 0.7075840148609132
+typography_spectrum: 0.9343627404887229
+color:
+  brandStrength: 0.6457760445773602
+  lightness: 0.43988042790442705
+  saturation: 0.22076366376131773
+  rhythmicContrast: 0.2237142373342067
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: TestSiteTwo
